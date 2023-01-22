@@ -1,5 +1,6 @@
 # py.JM.Module1
-Small code that looks at different data sets and uses various means of interpretation to manipulate and catagorize. Run code for full demonstration. 
+Small code that looks at different scientific data sets and uses various means of interpretation to manipulate and catagorize the data. Run code for full demonstration! 
+
 This is a short code made to display several functions of python. It includes two exercises that consist of data sets that are manipulated in different ways.  
 
 In exercise 1 we change a data_list into a iterable list that can be looped with different functions element by element. This is done in three ways using while statements, using enumerate to list not only and iterable list but also the index of the elements. And finally, using numpy to form an array that will then be turned into a list using .tolist function. 
